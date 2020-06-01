@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "context": "do not forget: work,sleep,work,sleep,work,sleep,work,sleep,work",
+      "id": 1
+    },
+    {
+      "context": "shopping list: apple, eggs, milk, bread, tomato, cucumber, cheese",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "context": "quotes: road is life."
+    }
+  ]
+}
