@@ -1,5 +1,5 @@
 # my-notepad
-basic notepad application
+Simple notepad application
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -7,6 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### npm run dev
+`npm run dev`
 
-To create a fake server for notes, "json-server" is used.
+To create a fake server for notes, `json-server` is used.
