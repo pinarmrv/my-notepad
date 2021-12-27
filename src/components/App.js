@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import './App.css';
+import '../styles/App.css';
 import Notepad from './Notepad';
 
 class App extends PureComponent {
